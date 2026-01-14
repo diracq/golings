@@ -1,3 +1,7 @@
 dist/
 coverage.out
 .DS_Store
+
+# direnv
+.direnv
+
